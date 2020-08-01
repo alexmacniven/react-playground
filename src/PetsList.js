@@ -59,6 +59,7 @@ class PetsList extends React.Component {
         <h2>Pet List</h2>
         <Dogs />
         <Cats />
+        <hr />
       </div>
     );
   }
